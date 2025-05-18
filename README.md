@@ -102,10 +102,10 @@ jupyter notebook notebook/Plagiarism_detector.ipynb
 
 ```
 📊 Evaluation Results on Test Set:
-Accuracy  : 0.81
-Precision : 0.78
-Recall    : 0.87
-F1 Score  : 0.82
+Accuracy  : 0.83
+Precision : 0.82
+Recall    : 0.85
+F1 Score  : 0.84
 
 📝 Test the model with your own input sentences.
 Enter the first sentence: A man is a player in a basketball game.
