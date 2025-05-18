@@ -19,6 +19,7 @@ data/
 output/
 *.bin
 *.pt
+*.zip
 *.h5
 *.ckpt
 
